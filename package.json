@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ajaxamsterdamsergey.github.io/goit-react_hw-02-feedback/",
+  "homepage": "https://ajaxamsterdamsergey.github.io/goit-react-hw-04-feedback/",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
